@@ -1,5 +1,5 @@
 # Beta-bursts-extraction
-An algorithm that extracts beta bursts from EEG or MEG data developed as part of my Master's Thesis at McGill University.
+An algorithm used to extract beta bursts from EEG/MEG data developed as part of my Master's Thesis at McGill University.
 
 If you are interested in understanding how this algorithm works, check out the PowerPoint presentation Beta_burst_analysis.pptx.
 
