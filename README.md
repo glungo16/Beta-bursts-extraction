@@ -9,6 +9,16 @@ If you want to use this algorithm, check out the [beta bursts steps](<./burst an
 
 If you are curious about my thesis and the results obtained, check out [my thesis](<./burst analysis/Thesis.pdf>).
 
+Below you can see how my algorithm identifies beta bursts:
+
+![Flexible_Intervals_Representation.png](./Flexible_Intervals_Representation.png)
+
+<br />
+
+Here you can see how this algorithm improves detection rate of beta bursts extracted from smaller intervals:
+
+![Flexible_Intervals_Detection.png](./Flexible_Intervals_Detection.png)
+
 
 ## Technologies used:
 
